@@ -1,5 +1,5 @@
 # Database-Application
-This is a repo with database application developed using SQL. It is group project of one of course at my Bachelor's study
+This is a repo with database application developed using MySQL. It is group project of one of course at my Bachelor's study
 BUSINESS PROBLEM FOR DATABASE APPLICATION
 The database application is designed for a medical company. The company
 takes ingredients from suppliers and uses those ingredients to manufacture
